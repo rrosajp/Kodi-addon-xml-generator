@@ -24,7 +24,7 @@ Just fill out [the form][1] and copy or download your **addon.xml** file!
 
 This work is licensed under a [MIT LICENSE][5].
 
-[1]: https://j2team.github.io/tools/kodi-addon-xml-generator/
+[1]: https://github.com/Milhano/tools/kodi-addon-xml-generator/
 [2]: http://getbootstrap.com/
 [3]: https://angularjs.org/
 [4]: https://github.com/zenorocha/clipboard.js
